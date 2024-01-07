@@ -4,9 +4,9 @@
 
 #### Statistical Data
 
-![zgyj4532's github stats](https://github-readme-stats.vercel.app/api?username=zgyj4532&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=8e8cd8)
+![zgyj4532's github stats](https://github-readme-stats.vercel.app/api?username=zgyj4532&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=ffad86)
 
-
+![zgyj4532's language](https://github-readme-stats.vercel.app/api/top-langs/?username=zgyj4532&layout=compact&theme=transparent)
 #### Programming Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -18,6 +18,9 @@
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
 
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Venom&color=0:FFB7DD,300:A42D00&height=200&animation=fadeIn&section=header&text=The%20End!&fontColor=FFFFFF&fontSize=60&stroke=1C1C1C&strokeWidth=1)
 <!--
 **zgyj4532/zgyj4532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
