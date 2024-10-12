@@ -6,7 +6,8 @@
 
 ![zgyj4532's github stats](https://github-readme-stats.vercel.app/api?username=zgyj4532&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=ffad86)
 
-![zgyj4532's language](https://github-readme-stats.vercel.app/api/top-langs/?username=zgyj4532&layout=compact&theme=transparent)
+
+![zgyj4532's language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zgyj4532&theme=github)
 #### Programming Language
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
