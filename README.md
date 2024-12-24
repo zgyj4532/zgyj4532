@@ -19,9 +19,13 @@
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
 
+<div align="center">
+  
+![https://count.getloli.com/@:zgyj4532](https://count.getloli.com/@zgyj4532?name=zgyj4532&theme=capoo-2&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=8&prefix=4532)
+
+</div>
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Venom&color=0:FFB7DD,300:A42D00&height=200&animation=fadeIn&section=header&text=The%20End!&fontColor=FFFFFF&fontSize=60&stroke=1C1C1C&strokeWidth=1)
 <!--
 **zgyj4532/zgyj4532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
