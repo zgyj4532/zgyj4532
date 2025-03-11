@@ -19,6 +19,8 @@
 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=black&labelColor=black)
 
+#### OSU lazer
+[![osu!](https://osu-sig.vercel.app/card?user=37332327&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/37332327)
 <div align="center">
   
 ![https://count.getloli.com/@:zgyj4532](https://count.getloli.com/@zgyj4532?name=zgyj4532&theme=capoo-2&padding=8&offset=0&align=center&scale=1&pixelated=1&darkmode=auto&num=8&prefix=4532)
